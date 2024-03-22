@@ -1,0 +1,21 @@
+.navOne{
+    padding-left: 40%;
+    color: black;
+}
+
+.navTwo{
+    padding-left: 5%;
+    color: black;
+}
+
+.navThree{
+    padding-left: 5%;
+    color: black;
+}
+
+nav{
+    background-color: rgb(243, 245, 144);
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
