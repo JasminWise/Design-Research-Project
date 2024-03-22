@@ -17,7 +17,7 @@
 }
 
 nav{
-    background-color: rgb(243, 245, 144);
+    background-color: rgb(253,219,39);
     padding-left: 2%;
     padding-bottom: 2%;
     padding-top: 2%;
@@ -30,7 +30,7 @@ nav{
 }
 
 .yellow{
-    background-color:rgb(243, 245, 144) ;
+    background-color: rgb(253,219,39);
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 10%;
@@ -55,7 +55,7 @@ nav{
 }
 
 .yellow2{
-    background-color: rgb(243, 245, 144) ;
+    background-color: rgb(253,219,39) ;
     font-size: 40px;
 }
 
@@ -72,7 +72,7 @@ nav{
 }
 
 .yellow3{
-    background-color: rgb(243, 245, 144);
+    background-color: rgb(253,219,39);
     font-size: 25px;
     padding-left: 10%;
     padding-right: 10%;
@@ -111,4 +111,13 @@ nav{
 
 .websiteButton{
     padding-left: 45%;
+}
+
+body{
+    background-color: rgb(37, 137, 154);
+}
+
+button{
+    background-color: rgb(246, 215, 60);
+    border-color: rgb(253,219,39);
 }
