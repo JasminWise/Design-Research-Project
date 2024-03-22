@@ -80,3 +80,13 @@ nav{
     padding-top: 10%;
     padding-bottom: 10%;
 }
+
+.firstButton{
+    height: 80px;
+    width: 80px;
+}
+
+.buttonDiv{
+    padding-left: 45%;
+    padding-bottom: 10%;
+}
