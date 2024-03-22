@@ -4,16 +4,28 @@
     font-size: 20px;
 }
 
+.navOne:hover{
+    color: rgb(85, 191, 210) ;
+}
+
 .navTwo{
     padding-left: 5%;
     color: black;
     font-size: 20px;
 }
 
+.navTwo:hover{
+    color: rgb(85, 191, 210);
+}
+
 .navThree{
     padding-left: 5%;
     color: black;
     font-size: 20px;
+}
+
+.navThree:hover{
+    color: rgb(85, 191, 210);
 }
 
 nav{
