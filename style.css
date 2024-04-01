@@ -85,7 +85,7 @@ nav{
 
 .yellow3{
     background-color: rgb(253,219,39);
-    font-size: 25px;
+    font-size: 40px;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 10%;
@@ -133,3 +133,4 @@ button{
     background-color: rgb(246, 215, 60);
     border-color: rgb(253,219,39);
 }
+
